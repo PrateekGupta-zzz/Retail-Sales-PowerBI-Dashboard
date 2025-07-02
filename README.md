@@ -29,9 +29,8 @@ An interactive Power BI dashboard designed to simulate business reporting using 
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
-_Add images of Page 1 and Page 2 for quick preview:_
 
 ![Main Dashboard](SalesData_Dashboard_pg1.png)  
 ![Drillthrough Page](SalesData_Dashboard_pg2.png)
