@@ -17,7 +17,7 @@ An interactive Power BI dashboard designed to simulate business reporting using 
 
 ## 📄 PDF Report
 
-👉 [View Full Dashboard (PDF)](Retail_Dashboard.pdf)
+👉 [View Full Dashboard (PDF)](Retail_Sales_Analysis_PowerBI.pdf)
 
 ---
 
@@ -33,8 +33,8 @@ An interactive Power BI dashboard designed to simulate business reporting using 
 
 _Add images of Page 1 and Page 2 for quick preview:_
 
-![Main Dashboard](screenshots/main_dashboard.png)  
-![Drillthrough Page](screenshots/drillthrough_page.png)
+![Main Dashboard](SalesData_Dashboard_pg1)  
+![Drillthrough Page](SalesData_Dashboard_pg2)
 
 ---
 
@@ -47,5 +47,5 @@ This self-initiated project simulates real-world stakeholder reporting. It demon
 ## 📬 Author
 
 **Prateek Gupta**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out if you'd like to discuss data analytics or business intelligence.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prateek001/) or reach out if you'd like to discuss data analytics or business intelligence.
 
